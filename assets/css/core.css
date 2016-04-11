@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'Comic Sans',Marker Felt;
+  font-family: 'Comic Sans',Comic Sans MS;
   font-style: normal;
   font-weight: 400;
 }
@@ -11,11 +11,11 @@ html, body {
 
 body {
     background-color: #000;
-    font-family: 'Comic Sans',Marker Felt;
+    font-family: 'Comic Sans',Comic Sans MS;
 }
 
 code {
-    font-family: 'Comic Sans',Marker Felt;
+    font-family: 'Comic Sans',Comic Sans MS;
     white-space: normal;
 }
 
@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .persian {
-	font-family: 'Comic Sans',Marker Felt;
+	font-family: 'Comic Sans',Comic Sans MS;
 	font-size: 200%;
 	text-align: right;
 	direction: rtl;
