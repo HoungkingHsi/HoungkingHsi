@@ -30,8 +30,7 @@
                     	<li><a href="{{ page.uri }}#vision">Vision</a></li>
                         <li><a href="{{ page.uri }}#onTheNet">On The NET</a></li>
                         <li><a href="{{ page.uri }}#contact">Contact</a></li>
-                        <li><a href="{{ page.uri }}">indeex</a></li>
-                        <li><a href="/list/">List</a></li>
+                        <li{% if page.active == 'list' %} class="active"{% endif %}><a href="/list/">indeex</a></li>
                     </ul>
                 </div>
             </div>
