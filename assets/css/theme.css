@@ -21,7 +21,7 @@ code:hover {
 }
 
 .name {
-    font-family: 'Comic Sans', Comic Sans MS;
+    font-family: 'Comic Sans MS',Comic Sans;
     font-size: xx-large;
     letter-spacing: 0;
 }
@@ -30,7 +30,7 @@ code:hover {
 }
 
 .slashsbin {
-    font-family: 'Comic Sans', Comic Sans MS;
+    font-family: 'Comic Sans MS',Comic Sans;
     font-weight: normal;
     font-size: 3em;
     color: #000;
@@ -41,7 +41,7 @@ code:hover {
 }
 
 #navBar a {
-    font-family: 'Comic Sans', Comic Sans MS;
+    font-family: 'Comic Sans MS',Comic Sans;
 }
 #navBar .active #logo {
     background: none;
